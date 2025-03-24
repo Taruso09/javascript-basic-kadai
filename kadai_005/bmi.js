@@ -1,17 +1,23 @@
 let weight;
-
-weight = 68 ;
+weight = '体重';
+let kg = 68 ;
 
 console.log(weight);
+console.log(kg);
 
-let heigt;
-
-heigt = 1.7 ;
-
-console.log(heigt);
+let height;
+height ='身長';
+let m = 1.7;
+console.log(height);
+console.log(m);
 
 
 //四則演算
-console.log(68/1.7*1.7);
-let bmi = 68;
-console.log(bmi);
+console.log(kg/m*m);
+
+let BMI ;
+BMI ='BMI(体格指数)';
+let total = 68;
+
+console.log(BMI);
+console.log(total);
