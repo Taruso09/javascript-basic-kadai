@@ -15,5 +15,5 @@ let BMI;
 BMI = 'BMI(体格指数)';
 //四則演算
 console.log(BMI);
-console.log(kg/m*m);
+console.log(kg/[m*m]);
 
